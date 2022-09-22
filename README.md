@@ -58,6 +58,15 @@ Video Game System Architecture:
 
 ![image](https://user-images.githubusercontent.com/72070804/191827241-a8469d17-c51b-44d6-875c-836f05b75527.png)
 
+Synthwave Main Menu:
+![image](https://user-images.githubusercontent.com/72070804/191827866-7b2695e7-a493-4d80-b4f9-8e7be1eea1f7.png)
+
+Synthwave Game Menu:
+![image](https://user-images.githubusercontent.com/72070804/191827904-43c52cff-dd6f-4811-986e-1749c54da9c4.png)
 
 
-f
+Synthwave Settings Menu:
+![image](https://user-images.githubusercontent.com/72070804/191827937-5989e61f-1066-417e-a1f6-d5222dd32a5c.png)
+
+Synthwave Shop Menu:
+![image](https://user-images.githubusercontent.com/72070804/191827974-ca1ffbdd-9a75-4eac-9b49-15bff777b978.png)
