@@ -28,6 +28,9 @@ Unity Project   : https://drive.google.com/file/d/1bAWJvdzfy_SEuwqAceiFx0E-q5nOP
 
 Documentation   : https://drive.google.com/file/d/1hoVmQNfL9lk7-I-g3EKYKzZREeyCFyqZ/view?usp=sharing
 
+Video Demonstration of Playing Video Game [Windows PC & Android Smartphone] - Game Controller Prototype Inlcuded:
+Link here       : https://drive.google.com/file/d/1Tx-kxjU2HrMTrr9cWLrGDHyYq3ckYNQ6/view?usp=sharing
+
 ## Game Picture Gallery
 
 Cross-Platform Video Game - Preview Android APK & Windows EXE : 
