@@ -42,10 +42,22 @@ Game Controller Electronic Design:
 
 ![image](https://user-images.githubusercontent.com/72070804/191822886-cc0bec3b-4e6d-42b7-8f00-9c0619548990.png)
 
-Endless Runner Script Movement & GIF Demonstration:
+Endless Runner Movement Controll Script Preview & GIF Demonstration:
 
 ![image](https://user-images.githubusercontent.com/72070804/191823321-8c15a137-caa6-4be6-8412-576d05aabaef.png)
 
-![alt-text](https://github.com/BogdanSfrangeu/Synthwave-3D-Video-Game/blob/8531820261524207e15a38e6b9292b191f38a239/GIFs/Movement.gif)
+![alt-text](https://github.com/BogdanSfrangeu/Synthwave-3D-Video-Game/blob/ee06d90b2af1158919f06b10774a77dcfe1d8930/GIFs/Movement_Controll.gif)
+
+Endless Runner Road Generation Script Preview & GIF Demonstration:
+
+![image](https://user-images.githubusercontent.com/72070804/191826930-ede6d58a-28a4-49e0-b479-aabdd276239a.png)
+
+![alt-text](https://github.com/BogdanSfrangeu/Synthwave-3D-Video-Game/blob/ee06d90b2af1158919f06b10774a77dcfe1d8930/GIFs/Road_Generation.gif)
+
+Video Game System Architecture: 
+
+![image](https://user-images.githubusercontent.com/72070804/191827241-a8469d17-c51b-44d6-875c-836f05b75527.png)
+
+
 
 f
