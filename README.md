@@ -46,6 +46,6 @@ Endless Runner Script Movement & GIF Demonstration:
 
 ![image](https://user-images.githubusercontent.com/72070804/191823321-8c15a137-caa6-4be6-8412-576d05aabaef.png)
 
-
+![alt-text](https://github.com/BogdanSfrangeu/Synthwave-3D-Video-Game/blob/8531820261524207e15a38e6b9292b191f38a239/GIFs/Movement.gif)
 
 f
